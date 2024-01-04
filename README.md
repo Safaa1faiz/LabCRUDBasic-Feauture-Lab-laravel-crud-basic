@@ -192,7 +192,6 @@ ___
 ### Use AdminLte
 
 ```bash
-  npm install admin-lte@^3.2 --save
 
   composer require infyomlabs/laravel-ui-adminlte
 
